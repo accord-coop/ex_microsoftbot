@@ -34,4 +34,4 @@ config :ex_microsoftbot,
   audience_claim: Application.get_env(:ex_microsoftbot, :app_id),
   disable_token_validation: false
 
-import_config "#{Mix.env}.exs"
+import_config "#{Mix.env()}.exs"
