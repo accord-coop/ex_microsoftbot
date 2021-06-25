@@ -25,9 +25,9 @@ defmodule ExMicrosoftbot.Mixfile do
   defp package do
     [
       licenses: ["MIT License"],
-      maintainers: ["Zohaib Rauf", "Ben Hayden"],
+      maintainers: ["Zohaib Rauf", "Ben Hayden", "Will Shown"],
       links: %{
-        "GitHub" => "https://github.com/zabirauf/ex_microsoftbot",
+        "GitHub" => "https://github.com/accord-coop/ex_microsoftbot",
         "Docs" => "https://hexdocs.pm/ex_microsoftbot/"
       }
     ]
