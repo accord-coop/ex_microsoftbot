@@ -2,6 +2,10 @@
   <library name="inch_ex" type="mix">
     <CLASSES />
     <JAVADOC />
-    <SOURCES />
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/deps/inch_ex/lib" />
+      <root url="file://$PROJECT_DIR$/deps/inch_ex/lib" />
+      <root url="file://$PROJECT_DIR$/deps/inch_ex/lib" />
+    </SOURCES>
   </library>
 </component>

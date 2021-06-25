@@ -1,7 +1,18 @@
 <component name="libraryTable">
   <library name="httpotion" type="mix">
-    <CLASSES />
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/_build/test/lib/httpotion/ebin" />
+      <root url="file://$PROJECT_DIR$/_build/test/lib/httpotion/ebin" />
+      <root url="file://$PROJECT_DIR$/_build/test/lib/httpotion/ebin" />
+      <root url="file://$PROJECT_DIR$/_build/test/lib/httpotion/ebin" />
+      <root url="file://$PROJECT_DIR$/_build/test/lib/httpotion/ebin" />
+      <root url="file://$PROJECT_DIR$/_build/test/lib/httpotion/ebin" />
+    </CLASSES>
     <JAVADOC />
-    <SOURCES />
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/deps/httpotion/lib" />
+      <root url="file://$PROJECT_DIR$/deps/httpotion/lib" />
+      <root url="file://$PROJECT_DIR$/deps/httpotion/lib" />
+    </SOURCES>
   </library>
 </component>
